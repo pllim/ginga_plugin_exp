@@ -1,2 +1,2 @@
 # ginga_plugin_exp
-Experimental Ginga plugins
+This package contains experimental Ginga plugins, as proof of concept for ejeschke/ginga#426
